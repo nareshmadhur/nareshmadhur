@@ -1,47 +1,45 @@
-# 👋 Hi, I’m @nareshmadhur
+# Hi there, I'm Naresh Madhur! 👋
 
-I am defined by my focus on high-impact technology and my creative expression as a Musician and Shutterbug, all documented as a continuous journey [conversation history].
+> **The Full-Stack Strategist**  
+> *Bridging the gap between Technical Depth (AI/Data) and Business Strategy (ROI).*
 
-I am a **Technophile** driving business transformation through data, governance, and high-impact technology [1].
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nareshmadhur/)
+[![Website](https://img.shields.io/badge/Personal_Site-Visit-black?style=for-the-badge&logo=vercel)](https://nareshmadhur.com)
 
-## 💻 Professional Expertise
+---
 
-I specialize in transforming organizations to be truly **data-driven** [2]. My expertise focuses on [1, 2]:
+## 👨‍💻 About Me
 
-*   Developing **data-driven strategies, BI governance, and high-impact AI/ML use cases** [1].
-*   Working extensively on the **Google Cloud Platform** [1].
-*   With **over 5 years of experience** in a European wholesale business context, I focus on strong governance, facilitating innovation, and ensuring top-down sponsorship [2].
+I am a **Strategic Data Leader** and **Business Intelligence Expert** based in Amsterdam. My work focuses on translating complex data capabilities into measurable business value. I don't just build models; I build the **governance, culture, and architecture** required to make them scale.
 
-## 🌱 Current Focus
+*   🔭 **Currently working on:** Transforming "Shadow IT" into governed, scalable Data Ecosystems.
+*   🌱 **Currently learning:** Production-Grade LLM Ops (RAG Eval)
+*   💬 **Ask me about:** Data Strategy, ROI of AI, Semantic Layers, and Carnatic Guitar.
+*   ⚡ **Fun fact:** I treat my guitar practice with the same algorithmic rigor as my code.
 
-I believe that getting my hands dirty is the best way to truly learn and understand a new technology [3]. My projects, such as this one, serve as a way to explore new concepts, like the recent hype around **vibe-driven development** [3].
+---
 
-## 🎨 Creative Pursuits
+## 🛠️ Tech & Strategy Stack
 
-When I step away from the keyboard, I pursue music and photography [1].
+### **Core Engineering**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-### Musician 🎶
-My passion for music started early due to my musically inclined parents [2]. I focus on a blend of **Carnatic tradition and contemporary music** [1]. I offer performances and lessons and currently, I am busy **collaborating with local artists in the Netherlands** to further grow in the performing space [2].
+### **Data & AI Strategy**
+![Strategy](https://img.shields.io/badge/Data_Strategy-000000?style=flat&logo=google-analytics&logoColor=white)
+![GenAI](https://img.shields.io/badge/GenAI_&_LLMs-8A2BE2?style=flat&logo=openai&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker/MicroStrategy-FF6B6B?style=flat)
+![Governance](https://img.shields.io/badge/Data_Governance-2E8B57?style=flat)
 
-### Shutterbug 📸
-This third interest was inspired by my uncle's passion [3]. I maintain a visual diary by **capturing singular moments with intention** [1]. While I explore landscapes and stories found in everyday life, **Portraits remain my dominant interest** for personal logging [1, 3].
+---
 
-## 📫 Connect with Me
+## 🎸 Beyond the Code
 
-Follow my journey from professional insights and creative projects to everyday moments across these platforms [5, conversation history].
+I operate on a **"Grounded Ambition"** philosophy. High performance requires deep recovery.
 
-| Platform | Link |
-| :--- | :--- |
-| **Website** | [**https://www.nareshmadhur.com**](https://www.nareshmadhur.com) |
-| **LinkedIn** | [naresh-madhur](https://www.linkedin.com/in/naresh-madhur) [4] |
-| **YouTube** | [General: @nareshmadhur](https://www.youtube.com/@nareshmadhur) and [Lessons: @nareshteaches](https://www.youtube.com/@nareshteaches) [4] |
-| **Instagram** | [Personal: @nareshmadhur](https://www.instagram.com/nareshmadhur) and [Singing: @naresh.sings](https://www.instagram.com/naresh.sings) [4] |
-
-***
-
-<!---
-nareshmadhur/nareshmadhur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-3 sources
+*   **🎵 The Musician:** I am an active Guitarist & Vocalist, fusing Western theory with **Carnatic (Indian Classical)** discipline.
+*   **📸 The Photographer:** Capturing the stillness in chaos.
+*   **🧠 The Investor:** Building wealth for autonomy, strictly following a "Sovereign Investor" mindset.
